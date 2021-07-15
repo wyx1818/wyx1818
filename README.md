@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=wyx1818.wyx1818)
 [![Github](https://img.shields.io/github/followers/wyx1818?label=Follow&style=social)](https://github.com/wyx1818)
 
-Now I'm working at xwfintech as a web frontend developer.
+Now I'm working at Xwfintech Ltd as a web frontend developer.
 
 <!--
 **wyx1818/wyx1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
